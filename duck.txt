@@ -1,2 +1,6 @@
-Mr. wong has a duck.
+Dr. Brown has a duck.
 duck can fly!
+
+duck can swim
+# duck can not fly!
+
