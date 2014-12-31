@@ -1,1 +1,2 @@
 novel: Iron house
+line 1: It's a beautiful day morning.
